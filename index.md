@@ -32,17 +32,17 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 Here we can count the number of times Nathan does a Nathan
 or cannot do stuff with us because he's too busy
 
-| head1        | head two          |
-|:-------------|:------------------|:
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
-
 > Doing a Nathan,
 >
 > Is when you invite someone over and after some drinks and a
 > quarter of a join you fall asleep on the kitchen table.
+
+| Host               | Times |
+|:-------------------|:------|:
+| Carlino            |  ´1´  |
+| Moni and Ypatata   |  ´1´  |
+| Nathan             |  ´1´  |
+| Johan              |  ´1´  |
 
 ### There's a horizontal rule below this.
 
