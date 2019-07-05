@@ -39,10 +39,10 @@ or cannot do stuff with us because he's too busy
 
 | Host               | Times |
 |:-------------------|:------|:
-| Carlino            |  ´1´  |
-| Moni and Ypatata   |  ´1´  |
-| Nathan             |  ´1´  |
-| Johan              |  ´1´  |
+| Carlino            |   1   |
+| Moni and Ypatata   |   1   |
+| Nathan             |   1   |
+| Johan              |   1   |
 
 ### There's a horizontal rule below this.
 
