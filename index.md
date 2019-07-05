@@ -31,7 +31,7 @@ or cannot do stuff with us because he's too busy
 > Doing a Nathan,
 >
 > Is when you invite someone over and after some drinks and a
-> quarter of a join you fall asleep on the kitchen table.
+> quarter of a join you fall asleep on the kitchen table.<
 
 | Host               | Times |
 |:-------------------|:------|:
@@ -49,7 +49,8 @@ or cannot do stuff with us because he's too busy
 
 ```
 And for the final surprise...
-(No, it's not a video singing or saying happy birthday)
+(No, it's not a video singing 
+or saying happy birthday)
 ```
 {% include googleDrivePlayer.html id=page.driveId %}
 
