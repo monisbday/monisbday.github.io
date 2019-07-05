@@ -10,18 +10,15 @@ The idea is to have a present that will travel with you every day, for many many
 
 _(Or until there is an unforseen update and the page breaks but I will try to fix it asap)_
 
-# Header 1
+# Present number 1
 
-Text1
-# Header 1
+3 month subscription to the economist
+# Present number 2
 
-Text2
-# Header 1
+secret...
+# Present number 3
 
-Text3
-# Header 1
-
-Text4
+secret...
 
 # And here...
 
