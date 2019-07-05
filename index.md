@@ -12,20 +12,16 @@ _(Or until there is an unforseen update and the page breaks but I will try to fi
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+Text1
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+Text2
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+Text3
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+Text4
 
 # And here...
 
@@ -47,25 +43,13 @@ or cannot do stuff with us because he's too busy
 
 * * *
 
-### Small image
+### Here is a random perrito
 
 ![Sausagito](https://placedog.net/640/480?random)
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
 ```
-And for the final surprise (No, it's not a video singing or saying happy birthday)...
+And for the final surprise...
+(No, it's not a video singing or saying happy birthday)
 ```
 {% include googleDrivePlayer.html id=page.driveId %}
 
