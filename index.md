@@ -49,7 +49,7 @@ or cannot do stuff with us because he's too busy
 
 ### Small image
 
-![Sausagito](https://dog.ceo/api/breed/dachshund/images/random)
+![Sausagito](https://placedog.net/640/480?random)
 
 ### Definition lists can be used with HTML syntax.
 
