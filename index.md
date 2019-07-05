@@ -40,7 +40,7 @@ or cannot do stuff with us because he's too busy
 
 * * *
 
-### Here is a random perrito
+## Here is a random perrito
 
 ![Sausagito](https://placedog.net/640/480?random)
 
