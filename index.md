@@ -27,12 +27,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
 ### Header 3
 
 ```js
@@ -62,7 +56,10 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+# And here...
+
+We can count the number of times Nathan does a Nathan
+or cannot do stuff with us because he's too busy
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -70,6 +67,11 @@ end
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+> Doing a Nathan,
+>
+> Is when you invite someone over and after some drinks and a
+> quarter of a join you fall asleep on the kitchen table.
 
 ### There's a horizontal rule below this.
 
