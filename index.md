@@ -3,6 +3,13 @@ layout: default
 driveId: 1Olr6-43eua9QM0R3hVGU8ouETxbMtLY9/preview
 ---
 
+# Dear Monica...
+This website was built with a funny technology I wanted to try since a while and a lot of **love**.
+
+The idea is to have a present that will travel with you every day, for many many days!
+
+_(Or until there is an unforseen update and the page breaks but I will try to fix it asap)_
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
