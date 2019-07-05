@@ -10,17 +10,22 @@ The idea is to have a present that will travel with you every day, for many many
 
 _(Or until there is an unforseen update and the page breaks but I will try to fix it asap)_
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Header 1
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
 
 ## Header 2
 
@@ -123,9 +128,7 @@ end
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+And for the final surprise (No, it's not a video singing or saying happy birthday)...
 ```
 {% include googleDrivePlayer.html id=page.driveId %}
-```
-The final element.
-```
+
