@@ -15,10 +15,10 @@ _(Or until there is an unforseen update and the page breaks but I will try to fi
 3 month subscription to the economist
 # Present number 2
 
-secret...
+Friend trip to a secret location!
 # Present number 3
 
-secret...
+Multiple wrongly clculated number of cards with lots of love <3
 
 # And here...
 
